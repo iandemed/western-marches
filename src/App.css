@@ -1,0 +1,11 @@
+body, #root {
+  height: 100vh;
+}
+.App {
+  height: 100%;
+  text-align: center;
+}
+
+.leaflet-container {
+  height: 100%;
+}
